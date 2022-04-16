@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/airdrop/static/css/main.d9d5b98a.css",
+    "main.js": "/airdrop/static/js/main.de116f3d.js",
+    "static/media/loader.gif": "/airdrop/static/media/loader.113a405e6fc5f2b74570.gif",
+    "static/media/backg.jpg": "/airdrop/static/media/backg.ee8d83fca66b10596a1d.jpg",
+    "static/media/log.jpg": "/airdrop/static/media/log.d3105d0ce68787f77261.jpg",
+    "index.html": "/airdrop/index.html",
+    "main.d9d5b98a.css.map": "/airdrop/static/css/main.d9d5b98a.css.map",
+    "main.de116f3d.js.map": "/airdrop/static/js/main.de116f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d5b98a.css",
+    "static/js/main.de116f3d.js"
+  ]
+}
